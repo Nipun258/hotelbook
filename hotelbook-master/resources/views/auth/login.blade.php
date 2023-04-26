@@ -45,7 +45,7 @@
               <span class="fas fa-lock"></span>
             </div>
           </div>
-        </div>
+</div>
 
         @error('password')
 					<span class="text-danger">{{ $message }}</span>
